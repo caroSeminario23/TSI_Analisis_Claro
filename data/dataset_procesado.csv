@@ -1,0 +1,46 @@
+edad,genero,sit_laboral,conex_internet,car_valorada,marca_pref,est_vida,Smartphone,Laptop,Tablet,PC,Consola de videojuegos,Smart TV,Redes sociales,Trabajo/Estudio,Entretenimiento,Juegos en línea,Compras online
+36-50 años,Masculino,Empleado/a de empresa privada,Datos móviles (celular),Velocidad de conexión,Samsung,Social/conectado con amigos y familia,1,0,0,0,0,0,1,1,0,0,0
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Precios bajos,Samsung,Práctico/busca lo esencial,1,1,0,0,0,0,0,1,1,1,0
+26-35 años,Femenino,Dueño/a de negocio,Datos móviles (celular),Velocidad de conexión,Apple,Ahorrador/consciente de gastos,1,1,1,0,0,0,1,1,0,0,0
+Más de 50 años,Masculino,Trabajador/a independiente,Wi-Fi en casa,Atención al cliente,Samsung,Práctico/busca lo esencial,1,0,0,0,0,0,0,1,0,0,0
+Más de 50 años,Femenino,Empleado/a público,Datos móviles (celular),Velocidad de conexión,Huawei,Social/conectado con amigos y familia,1,0,0,0,0,0,1,1,1,0,0
+18-25 años,Femenino,Estudiante,Datos móviles (celular),Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,0,1,1,1,1,1,1
+Más de 50 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Apple,Ahorrador/consciente de gastos,1,1,0,0,0,1,0,1,0,0,0
+18-25 años,Femenino,Estudiante,Datos móviles (celular),Velocidad de conexión,Samsung,Tecnológico/adicto a las novedades,1,0,0,0,0,0,1,1,0,0,0
+36-50 años,Masculino,Trabajador/a independiente,Datos móviles (celular),Velocidad de conexión,Apple,Tecnológico/adicto a las novedades,1,0,0,0,0,0,1,0,0,0,0
+18-25 años,Masculino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,0,0,1,1,0,1,0
+26-35 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Apple,Ahorrador/consciente de gastos,1,1,0,0,0,1,1,1,1,1,0
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,0,0,1,1,1,0,0
+36-50 años,Masculino,Empleado/a público,Datos móviles (celular),Velocidad de conexión,Motorola ,Práctico/busca lo esencial,1,1,0,0,0,0,0,1,1,0,0
+18-25 años,Masculino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,0,0,0,0,0,1,1,1,1,0
+18-25 años,Masculino,Estudiante,Datos móviles (celular),Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,0,0,1,1,1,1,0
+18-25 años,Masculino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Xiaomi,Ahorrador/consciente de gastos,1,1,0,0,0,0,1,1,1,0,0
+18-25 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Precios bajos,Samsung,Tecnológico/adicto a las novedades,1,1,0,0,0,1,1,1,1,1,0
+18-25 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Promociones o beneficios adicionales,Xiaomi,Práctico/busca lo esencial,1,1,0,0,0,1,1,1,0,0,0
+18-25 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Xiaomi,Tecnológico/adicto a las novedades,1,1,0,0,0,0,1,1,1,0,0
+18-25 años,Masculino,Trabajador/a independiente,Wi-Fi en casa,Velocidad de conexión,Xiaomi,Práctico/busca lo esencial,1,1,0,0,0,0,1,0,0,0,1
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Xiaomi,Práctico/busca lo esencial,1,1,0,0,0,1,1,1,1,0,0
+18-25 años,Masculino,Empleado/a de empresa privada,Internet de trabajo/centro de estudios,Velocidad de conexión,Redmi,Práctico/busca lo esencial,1,1,0,0,0,0,1,1,0,0,0
+Más de 50 años,Femenino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Huawei,Práctico/busca lo esencial,0,1,0,0,0,1,1,1,1,0,1
+36-50 años,Masculino,Empleado/a de empresa privada,Datos móviles (celular),Promociones o beneficios adicionales,Samsung,Tecnológico/adicto a las novedades,1,1,0,1,0,1,1,1,1,1,1
+Más de 50 años,Masculino,Empleado/a de empresa privada,Datos/WiFi casa,Velocidad de conexión,Motorola ,Tecnológico/adicto a las novedades,1,1,0,0,0,1,1,1,1,0,1
+18-25 años,Masculino,Desempleado/a,Wi-Fi en casa,Velocidad de conexión,Apple,Ahorrador/consciente de gastos,1,1,0,0,1,1,1,1,1,0,0
+18-25 años,Masculino,Estudiante,Wi-Fi en casa,Precios bajos,Google,Tecnológico/adicto a las novedades,1,1,1,0,1,0,1,1,1,1,0
+36-50 años,Femenino,Ama de casa ,Datos móviles (celular),Precios bajos,Motorola ,Práctico/busca lo esencial,1,0,0,0,0,0,1,0,1,1,0
+18-25 años,Masculino,Estudiante,Datos móviles (celular),Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,0,0,0,0,0,1,1,1,0,0
+36-50 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Google,Tecnológico/adicto a las novedades,1,1,0,0,0,1,0,1,1,1,0
+Más de 50 años,Femenino,Desempleado/a,Wi-Fi público,Velocidad de conexión,Samsung,Práctico/busca lo esencial,0,0,0,0,0,1,0,0,1,0,0
+Más de 50 años,Femenino,Ama de casa,Wi-Fi en casa,Precios bajos,Motorola,Práctico/busca lo esencial,1,0,0,0,0,0,1,0,0,0,0
+26-35 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Velocidad de conexión,Xiaomi,Tecnológico/adicto a las novedades,1,1,0,1,0,0,1,1,1,1,1
+26-35 años,Masculino,Trabajador/a independiente,Wi-Fi en casa,Precios bajos,Apple,Tecnológico/adicto a las novedades,1,0,0,1,1,0,1,0,1,1,1
+26-35 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,1,1,1,1,0,1,0
+18-25 años,Masculino,Empleado/a público,Datos móviles (celular),Velocidad de conexión,Huawei,Tecnológico/adicto a las novedades,1,1,0,0,1,1,1,1,1,1,1
+18-25 años,Masculino,Estudiante,Datos móviles (celular),Promociones o beneficios adicionales,Samsung,Ahorrador/consciente de gastos,1,1,0,0,0,1,1,1,1,0,0
+18-25 años,Masculino,Desempleado/a,Wi-Fi en casa,Velocidad de conexión,Huawei,Tecnológico/adicto a las novedades,1,1,1,0,0,0,0,1,0,1,1
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Motorola,Tecnológico/adicto a las novedades,1,1,0,0,0,1,1,1,1,1,1
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,0,1,0,0,0,0,1,0,0,0,0
+36-50 años,Masculino,Empleado/a de empresa privada,Wi-Fi en casa,Atención al cliente,Samsung,Social/conectado con amigos y familia,1,0,0,0,0,0,1,1,1,0,0
+18-25 años,Masculino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,1,0,0,0,0,1,1,1,1,0
+Menos de 18 años,Masculino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Samsung,Práctico/busca lo esencial,1,0,0,1,1,1,0,1,1,1,0
+18-25 años,Femenino,Estudiante,Wi-Fi en casa,Velocidad de conexión,Apple,Tecnológico/adicto a las novedades,1,1,0,0,1,1,1,0,1,0,0
+26-35 años,Masculino,Empleado/a público,Datos móviles (celular),Velocidad de conexión,Samsung,Tecnológico/adicto a las novedades,1,1,0,0,1,1,1,1,1,1,1
