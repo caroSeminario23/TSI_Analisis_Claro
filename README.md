@@ -15,5 +15,25 @@ Este proyecto tiene como objetivo analizar estratégicamente a la empresa Claro 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23d9ead3.svg?style=for-the-badge&logo=seaborn&logoColor=blue)
 
-## 4. Licencia
+## 4. Guía de instalación
+1. Agregar la extensión de ```Jupyter``` a su IDE de preferencia.
+
+2. Clonar el repositorio en su IDE:
+    ```
+    https://github.com/caroSeminario23/TSI_Analisis_Claro.git
+    ```
+
+2. Crear un entorno virtual con ```Virtualenv```:
+    ```
+    cd C:\ruta\de\tu\proyecto
+    python -m venv mi_entorno
+    .\mi_entorno\Scripts\activate
+    ```
+
+3. Instalar el archivo de librerías:
+    ```
+    pip install -r requirements.txt
+    ```
+
+## 5. Licencia
 [![Licencia](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
